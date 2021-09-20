@@ -1,4 +1,5 @@
 (function() {
+    //CREATED FOR AYA COIN REMOVAL NOTICE
 
     // mnemonics is populated as required by getLanguage
     var mnemonics = { "english": new Mnemonic("english") };
