@@ -2214,13 +2214,6 @@
             },
         },
         {
-            name: "ARYA - Aryacoin",
-            onSelect: function() {
-                network = libs.bitcoin.networks.aryacoin;
-                setHdCoin(357);
-            },
-        },
-        {
             name: "AUR - Auroracoin",
             onSelect: function() {
                 network = libs.bitcoin.networks.auroracoin;
