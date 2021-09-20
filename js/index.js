@@ -1,4 +1,5 @@
 (function() {
+    //CREATED FOR AYA COIN REMOVAL NOTICE
 
     // mnemonics is populated as required by getLanguage
     var mnemonics = { "english": new Mnemonic("english") };
@@ -2211,13 +2212,6 @@
             onSelect: function() {
                 network = libs.bitcoin.networks.argoneum;
                 setHdCoin(421);
-            },
-        },
-        {
-            name: "ARYA - Aryacoin",
-            onSelect: function() {
-                network = libs.bitcoin.networks.aryacoin;
-                setHdCoin(357);
             },
         },
         {
