@@ -2213,7 +2213,7 @@
                 network = libs.bitcoin.networks.argoneum;
                 setHdCoin(421);
             },
-        },
+        },{},
         {
             name: "AUR - Auroracoin",
             onSelect: function() {
